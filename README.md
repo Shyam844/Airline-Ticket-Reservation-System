@@ -4,5 +4,5 @@ The following project is made in Java maintaining details of flights ,staff , pa
 in mysql database involving interaction with jdbc.
 
 Authors:
-@Akash Kumar Gautam 2015011
+@Akash Kumar Gautam 2015011 ,
 @Shyam Agrawal  2015099
